@@ -7,5 +7,6 @@
 <body>
   <h1>Hello, I'm a CME Student 👋</h1>
   <p>This is my first hosted website!</p>
+   <h1>Hello, I'm a CME Student 👋</h1>
 </body>
 </html>
